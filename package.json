@@ -1,0 +1,20 @@
+{
+  "name": "mkr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Villar",
+  "license": "ISC",
+  "dependencies": {
+    "as-table": "^1.0.32",
+    "bitfinex-api-node": "^2.0.0-beta",
+    "ccxt": "^1.13.78",
+    "ololog": "^1.1.94",
+    "polly-js": "^1.4.3",
+    "request": "^2.85.0",
+    "ws": "^5.1.1"
+  }
+}
