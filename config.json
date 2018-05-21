@@ -1,7 +1,8 @@
 {
     "exch1" : {
         "apiKey" : "",
-        "secret" : ""
+        "secret" : "",
+        "uid" : 
     },
     "exch3" : {
         "apiKey" : "",
@@ -11,7 +12,7 @@
         "apiKey" : "",
         "secret" : ""
     },
-    "exch1Name" : "kraken",
+    "exch1Name" : "bitstamp",
     "exch2Name" : "acx",
     "symbol" : "BTC/ARS",
     "symbol2" : "BTC/USD",
@@ -19,5 +20,5 @@
     "amount" : 0.05,
     "increment" : 0.033,
     "top" : 0.11,
-    "ARSUSD" : 22
+    "percentageTrigger" : 0.1
 }
