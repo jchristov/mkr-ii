@@ -1,0 +1,23 @@
+{
+    "exch1" : {
+        "apiKey" : "",
+        "secret" : ""
+    },
+    "exch3" : {
+        "apiKey" : "",
+        "secret" : ""
+    },
+    "exch2" : {
+        "apiKey" : "",
+        "secret" : ""
+    },
+    "exch1Name" : "kraken",
+    "exch2Name" : "acx",
+    "symbol" : "BTC/ARS",
+    "symbol2" : "BTC/USD",
+    "spread" : 0.02,
+    "amount" : 0.05,
+    "increment" : 0.033,
+    "top" : 0.11,
+    "ARSUSD" : 22
+}
